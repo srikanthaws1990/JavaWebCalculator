@@ -17,17 +17,7 @@
 <label>
 <input type="radio" name="r1" value="add" />addition
 <br />
-</label>
-<label>
-<input type="radio" name="r2" value="sub" />subtraction 
-<br />
-</label>
-<label>
-<input type="radio" name="r3" value="prod" />product
-<br />
-</label>
-
- 
+</label> 
 </div>
 <input type="submit" value="submit" />
 </form>
