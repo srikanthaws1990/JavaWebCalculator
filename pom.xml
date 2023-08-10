@@ -4,7 +4,7 @@
   <groupId>com.web.cal</groupId>
   <artifactId>webapp</artifactId>
   <packaging>war</packaging>
-  <version>0.2</version>
+  <version>1.0</version>
   <name>WebAppCal Maven Webapp</name>
   <url>http://maven.apache.org</url>
      <properties>
@@ -30,7 +30,7 @@
   <repository>
     <id>releases</id>
     <!-- <url>http://52.204.135.48:8081/nexus/content/repositories/releases</url> -->    
-    <url>http://binary.ibm.com/nexus/content/repositories/releases</url>
+    <url>http://http://3.237.75.159:8081/nexus/content/repositories/releases</url>
   </repository>
 </distributionManagement>
 </project>
